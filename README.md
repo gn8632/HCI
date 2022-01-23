@@ -1,4 +1,4 @@
-# HCI
+# HCI ( Human Computer Interaction) 
 
 Technology used: Java  and Swing 
 
